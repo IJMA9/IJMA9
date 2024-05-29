@@ -1,19 +1,21 @@
-### Hola, soy Irving Jeremy 👋
+# Bienvenido a mi perfil de GitHub!
 
-![Banner Personalizado](url_del_banner)
+![Banner de Irving Jeremy](https://i.ibb.co/ZgpYkLM/banner.jpg)
 
-Soy un estudiante de ingeniería en sistemas apasionado por el desarrollo de software y la inteligencia artificial. Aquí encontrarás proyectos que reflejan mi interés en soluciones innovadoras.
+## Acerca de Mí
+Soy Irving Jeremy, un apasionado estudiante de ingeniería en sistemas con un fuerte interés en el desarrollo de software y la ciberseguridad. Aquí encontrarás proyectos que muestran mis habilidades y mi crecimiento profesional.
 
-🔧 Tecnologías que uso:
-- Python 🐍
-- Django 🌐
-- JavaScript ⚡
+## Tecnologías que Uso
+- **Lenguajes de Programación**: Python, JavaScript
+- **Frameworks**: Django
+- **Herramientas**: Git, Docker
 
-🌟 Proyectos destacados:
-- [Mi Proyecto de API Directions Google](url_al_repositorio)
+## Proyectos Destacados
+- [API Directions Google](URL_del_proyecto_API_Directions_Google)
+- [Proyecto de Ciberseguridad](URL_del_proyecto_de_Ciberseguridad)
 
-📊 Mis estadísticas:
-![Mis Estadísticas de GitHub](url_de_estadísticas)
+## Contacto
+- **LinkedIn**: [Irving Jeremy](URL_de_tu_LinkedIn)
+- **Email**: `irving.jmartinez9@gmail.com`
 
-📫 Cómo encontrarme:
-- LinkedIn: [Irving Jeremy](url_de_LinkedIn)
+Gracias por visitar mi perfil. ¡Espero que encuentres interesantes los proyectos!
